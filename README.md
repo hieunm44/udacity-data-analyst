@@ -21,7 +21,7 @@ __Project__: Analyze A/B Test Results
 
 __Course 4 - Data Wrangling__ \
 __Contents__: Gathering Data (csv, tsv, HTML, API, JSON, Relational DB, SQL), Assessing Data (quality, tidiness), 
-Cleaning Data (using pandas)
+Cleaning Data (using pandas) \
 __Project__: Wrangle and Analyze Data
 
 __Course 5 - Data Visualization__ \
